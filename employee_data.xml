@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+	<employee>
+		<name>Andy</name>
+		<position>Software Engineer</position>
+		<dob>12-07-1982</dob>
+		<salary>400</salary>
+	</employee>
+	<employee>
+		<name>Creed</name>
+		<position>Project Manager</position>
+		<dob>01-02-1980</dob>
+		<salary>500</salary>
+	</employee>
+	<employee>
+		<name>Jim</name>
+		<position>Project Lead</position>
+		<dob>02-11-1985</dob>
+		<salary>450</salary>
+	</employee>
+	<employee>
+		<name>Toby</name>
+		<position>HR Manager</position>
+		<dob>12-12-1984</dob>
+		<salary>357</salary>
+	</employee>
+	<employee>
+		<name>Dwight</name>
+		<position>Assistant Manager</position>
+		<dob>12-07-1982</dob>
+		<salary>600</salary>
+	</employee>
+	<employee>
+		<name>Angela</name>
+		<position>Accountant</position>
+		<dob>06-04-1990</dob>
+		<salary>467</salary>
+	</employee>
+</employees>
